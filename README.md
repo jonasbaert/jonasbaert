@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonasbaert
-- 👀 I’m interested in accessible software
-- 🌱 I’m currently learning ethical hacking and applied informatics (master)
+- 👀 I’m interested in accessible software, variety and researching
+- 🌱 I’m currently learning Ethical Hacking aswell as studying Applied Informatics (master)
 - 📫 To reach me, go to LinkedIn at https://www.linkedin.com/in/baert-jonas/
 
 <!---
